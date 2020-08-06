@@ -1,8 +1,7 @@
 ---
-title: Blog
-description: SouthChain Blog
+title: SouthChain Blog
+description: Collection of Southchain Blog Posts
 layout: blog.hbs
 menu-order: 4
 ---
 
-## Thanks for checking out the SouthChain Blog:
