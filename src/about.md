@@ -5,8 +5,19 @@ layout: about.hbs
 menu-order: 2
 ---
 
-# About me
+# About Us
 
-## Zapping good looks ⚡
+## *SouthChain Digital Asset Group* operates as an investment group into early stage Blockchain/Digital Asset/Web3 infrastructure
+Our plan is to eventually spin **SouthChain Digital Asset Group** into an early stage venture DAO(Decentralized Autonomous Organization)
 
-And other silly information.
+## *SouthChain Network* is our layer 2 solution bridged to the Ethereum Blockchain and DeFi Ecosystem
+Our ultimate goal is to operate full DeFi infrastructure such as Lending, DEX Trading, CDPs as well as a payment rail 
+
+## *DeFi Governance Voting rights* 
+We hold Governance Tokens/Voting rights for several of the top DeFi Apps such as Compound, Aave, Maker-DAO, Balancer and more
+
+## Ryan Parker is the Founder of SouthChain Digital 
+*"Apart of the Ethereum/DeFi ecosystem since 2018 when I started exploring/learning about Smart Contracts and the innovative ways to use them, combined with   witnessing DeFi in the very early stages, I felt then, Ethereum is going to change the world"* 
+
+
+
