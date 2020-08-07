@@ -4,5 +4,5 @@ description: Collection of Southchain Blog Posts
 layout: blog.hbs
 menu-order: 4
 ---
-## The SouthChain Blog 🖋️
+# The SouthChain Blog 🖋️
 
