@@ -8,21 +8,23 @@ menu-order: 5
 
 [Explore Ethereum](https://ethereum.org/)
 
-[Try Eth.build](https://eth.build/)
+[Learn to build on Eth.build](https://eth.build/)
 
-[Test Smart Contracts](https://remix.ethereum.org/)
+[Try Smart Contracts on Remix](https://remix.ethereum.org/)
 
-[Lend & Borrow earn COMP](https://compound.finance/)
+[Lend & Borrow on Compound to earn COMP](https://compound.finance/)
 
-[open a CDP Vault and Mint DAI](https://oasis.app/)
+[open a CDP Vault and Mint DAI Stablecoin on Oasis](https://oasis.app/)
 
 [Visit Aave Money Markets](https://aave.com/)
 
 [Trade on Uniswap Dex](https://uniswap.exchange/)
 
-[Zap into DeFi and track investing](https://zapper.fi/)
+[Zap into DeFi easily and track investments with Zapperfi](https://zapper.fi/)
 
-[Explore Hackathons on Gitcoin](https://gitcoin.co/)
+[Explore Hackathons and more on Gitcoin](https://gitcoin.co/)
+
+[Visit IPFS and learn about the Decentralized Internet](https://ipfs.io/)
 
 
 
