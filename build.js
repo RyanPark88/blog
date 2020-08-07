@@ -23,11 +23,11 @@ Handlebars.registerHelper('date', function (date) {
 metalsmith(__dirname)
     .metadata({
         site: {
-            name: 'My site',
-            description: "My super sweet Metalsmith site on Netlify.",
-            generatorname: "Metalsmith",
-            generatorurl: "http://metalsmith.io/",
-            generatortitle: "Check out Metalsmith!",
+            name: 'SouthChain Digital Asset Group',
+            description: "Southchain webpage",
+            generatorname: "South Digital Asset Group",
+            generatorurl: "https://southchain.digital",
+            generatortitle: "SouthChain",
             hostname: "Netlify",
             hosturl: "https://netlify.com/",
             hosttitle: "Learn more about Netlify"
