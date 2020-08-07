@@ -1,21 +1,29 @@
 ---
-title: Ethereum/DeFi Ecosystem
+title: Ethereum-DeFi Ecosystem
 layout: ethereum-defi.hbs
 menu-order: 5
 ---
 
 ## Explore the Ethereum DeFi Web3 Ecosystems
 
-- <a href='https://ethereum.org/'>Explore Ethereum</a>
-- <a href='https://eth.build/'>Build & learn with eth.build</a>
-- <a href='https://remix.ethereum.org/'>Try Smart Contracts with remix</a>
-- <a href='compound.finance'>Explore Compound, lend or borrow assets, earn COMP</a>
-- <a href='oasis.app'>Open a CDP and Mint DAI with MakerDAO</a>
-- <a href='aave.com'>Explore Aave and their Money Markets</a>
-- <a href='uniswap.exchange'>Trade Assets on Decentralized exchange Uniswap</a>
-- <a href='zapper.fi'>Zap into DeFi with Zapper fi</a>
-- <a href='gitcoin.co'>Check out Hack-a-thons on Gitcoin</a>
-- <a href='ipfs.io'>Explore Decentralized Internet</a>
+[Explore Ethereum](https://ethereum.org/)
+
+[Try Eth.build](https://eth.build/)
+
+[Test Smart Contracts](https://remix.ethereum.org/)
+
+[Lend & Borrow earn COMP](https://compound.finance/)
+
+[open a CDP Vault and Mint DAI](https://oasis.app/)
+
+[Visit Aave Money Markets](https://aave.com/)
+
+[Trade on Uniswap Dex](https://uniswap.exchange/)
+
+[Zap into DeFi and track investing](https://zapper.fi/)
+
+[Explore Hackathons on Gitcoin](https://gitcoin.co/)
+
 
 
 
