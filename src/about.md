@@ -5,7 +5,7 @@ layout: about.hbs
 menu-order: 2
 ---
 
-## About Us
+## About Us 🔍
 
 ### *SouthChain Digital Asset Group* operates as an investment group into early stage Blockchain/Digital Asset/Web3 infrastructure
 > -Our plan is to eventually spin **SouthChain Digital Asset Group** into an early stage venture DAO(Decentralized Autonomous Organization)
