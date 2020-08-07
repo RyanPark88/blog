@@ -16,7 +16,7 @@ menu-order: 5
 ### DeFi
 [Lend & Borrow on Compound to earn COMP](https://compound.finance/)
 
-[open a CDP Vault and Mint DAI Stablecoin on Oasis](https://oasis.app/)
+[Open a CDP Vault and Mint DAI Stablecoin on Oasis](https://oasis.app/)
 
 [Visit Aave Money Markets](https://aave.com/)
 
