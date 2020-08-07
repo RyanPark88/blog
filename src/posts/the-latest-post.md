@@ -2,7 +2,7 @@
 title: Why Ethereum is the hunted
 layout: post.hbs
 description: By: Ryan Parker
-date: 08-06-2020
+date: 08-07-2020
 ---
 What makes Ethereum ***the*** Blockchain/Digital Asset Network? When you're at the top, you are the hunted, and we've seen several blockchains claim to be the "Ethereum Killer" the past few years. Maybe it's the Dapps, DeFi ecosystem, the Smart Contracts or the ERC20 Standard that fueled the ICO bubble? All those are a "part" of Ethereum's dominance for sure, but more than that, I'm of the opinion Ethereum ran away from the competition because they mastered "Network effects". Chainlink, Aave, and a few other Crypto Ecosystems are now following this same blueprint. So what exactly are the "Network effects" other Blockchains can't easily replicate? 
 
