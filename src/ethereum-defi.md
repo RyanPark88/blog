@@ -6,4 +6,4 @@ menu-order: 4
 
 ## Ethereum and DeFi Ecosystem
 
-[ethereum]
+<a href='https://ethereum.org/'>Ethereum</a>
