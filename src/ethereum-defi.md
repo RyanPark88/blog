@@ -1,6 +1,6 @@
 ---
 title: Ethereum/DeFi Ecosystem
-layout: default.hbs
+layout: default1.hbs
 menu-order: 5
 ---
 
