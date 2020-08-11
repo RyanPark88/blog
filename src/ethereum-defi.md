@@ -6,12 +6,17 @@ menu-order: 5
 
 ## Explore the Ethereum, DeFi and Web3 Ecosystems
 
+### SouthChain DAO(testnet)
+[Visit our DAO page, on testnet currently](https://rinkeby.aragon.org/#/southchain/)
+
 ### Ethereum ⛓️
 [Explore Ethereum](https://ethereum.org/)
 
 [Learn & Build on Eth.build](https://eth.build/)
 
 [Try Smart Contracts on Remix](https://remix.ethereum.org/)
+
+[Learn more about DAO's](https://aragon.org)
 
 ### DeFi 💰
 [Lend & Borrow on Compound to earn COMP](https://compound.finance/)
