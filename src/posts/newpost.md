@@ -1,8 +1,8 @@
 ---
-Title: WTF is a DAO?
-Layout: post.hbs	
-Description: Ryan Parker	
-Date: 08-13-2020
+title: WTF is a DAO?
+layout: post.hbs	
+description: Ryan Parker	
+date: 08-13-2020
 ---
 ## "WTF is a DAO?"
 
