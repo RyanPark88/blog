@@ -2,7 +2,7 @@
 Title: WTF is a DAO?
 Layout: post.hbs	
 Description: Ryan Parker	
-Date: 08-12-2020
+Date: 08-13-2020
 ---
 ## "WTF is a DAO?"
 
