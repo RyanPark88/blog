@@ -19,8 +19,8 @@
     --menu-color: #5f656f;
 
 
-    --selection-bg: var(--highlight-color);
-    --selection-text: #fff;
+    --selection-bg: black;
+    --selection-text: white;
 
     --font-size-small: 0.6em;
     --site-font-stack: -apple-system,
