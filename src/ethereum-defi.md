@@ -6,8 +6,8 @@ menu-order: 5
 
 ## Explore the Ethereum, DeFi and Web3 Ecosystems
 
-### SouthChain DAO(testnet)
-[Visit our DAO page, on testnet currently](https://rinkeby.aragon.org/#/southchain/)
+### SouthChain DAO
+[Visit our DAO, SouthChain Digital](https://southchain.digital)
 
 ### Ethereum ⛓️
 [Explore Ethereum](https://ethereum.org/)
