@@ -1,8 +1,8 @@
 ---
 title: SouthChain Blog 
-description: Collection of Southchain Blog Posts
+description: Collection of Blog Posts
 layout: blog.hbs
 menu-order: 4
 ---
-# The SouthChain Blog 🖋️
+# Blog 🖋️
 
